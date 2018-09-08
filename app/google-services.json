@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "73256875350",
+    "firebase_url": "https://cloud-messagin-android-app.firebaseio.com",
+    "project_id": "cloud-messagin-android-app",
+    "storage_bucket": "cloud-messagin-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73256875350:android:d25380d8d0b4f01e",
+        "android_client_info": {
+          "package_name": "com.eternitybrothers.androidgcmchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73256875350-pj7a336vv30j2cnceme9qtp2cra9cgl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbfLsc6kTwHJ2qcHkWodLcOeSFrgAq8Es"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
